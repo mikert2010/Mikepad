@@ -1,6 +1,8 @@
 # Mikepad
 
-Mikepad is a small dark-sepia Windows text editor inspired by Windows 98 Notepad.
+Just a straight up notepad with no fussy tabs. kinda dark mode. Helpful to have a distinct color window for the many windowed desktop a modern windows user needs these days.
+
+Mikepad is a small dark-sepia Windows text editor inspired by Windows 98 Notepad, designed by yours truely.
 
 ## Download
 
